@@ -3,6 +3,9 @@ layout: post
 title: Deneme sayfası
 ---
 
-code(<?php class Foo(){ public function __constructor(){} } ?>)
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
 
 
